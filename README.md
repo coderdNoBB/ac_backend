@@ -9,9 +9,6 @@ This project demonstrates a simple Alien Clock conversion utility using Java 17,
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -25,9 +22,11 @@ The Alien Clock project is a Java-based application that converts Earth time to 
 
 ## Getting Started
 
+```
 mvn clean install
 java -jar target/alien-clock-project.jar
 Access the application at http://localhost:8080
+```
 
 ### Prerequisites
 
